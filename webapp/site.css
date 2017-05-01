@@ -1,0 +1,251 @@
+body {
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	background-image: url(metal1.jpg);
+	background-repeat: repeat;
+	color: white;
+}
+
+.pic_width {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.carousel-caption h1 {
+	font-size: 3.5em;
+	background-color: black;
+	border-radius: 5px;
+}
+
+#home_banner {
+	text-align: center;
+	color: white;
+	width: 100%;
+	background-color: black;
+	opacity: .65;
+	padding: 2%;
+	margin-bottom: 2%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 1px lightblue;
+}
+
+.navbar-font {
+	font-size: 18px;
+}
+
+.nav.navbar-nav li a {
+	color: black;
+	font-size: 26px;
+}
+
+.nav.navbar-nav li a:hover {
+	color: white !important;
+	background-image: url(metal3.jpg);
+	text-decoration: none !important;
+}
+
+.top-navbar-css {
+	background-color: white;
+	border-bottom: 1px solid black;
+	opacity: .95;
+}
+
+h4 {
+	text-align: center;
+}
+
+#edashbaord {
+	text-align: left;
+}
+
+h4 a {
+	color: white;
+	text-decoration: none !important;
+	font-size: 27px;
+}
+
+#studentdash {
+	text-align: left;
+}
+
+h4 a:hover {
+	color: lightblue !important;
+	text-decoration: none !important;
+}
+
+#public {
+	color: black;
+}
+
+.activation-message {
+	background-color: white;
+	color: black;
+	border-radius: 5px;
+	padding: 1%;
+}
+
+#currentUser {
+	float: right;
+	color: lightblue;
+}
+
+footer p a {
+	text-decoration: none;
+	color: white;
+}
+
+footer p a:hover {
+	text-decoration: none;
+	color: lightblue;
+	text-decoration: none;
+}
+
+.bcblack {
+	background-color: black;
+	opacity: .65;
+}
+
+.col-lg-4 p {
+	color: white;
+}
+
+.row.featurette p {
+	color: white;
+}
+
+.form-group textarea {
+	color: black;
+	border-radius: 5px;
+}
+
+.form-group input {
+	color: black;
+	border-radius: 5px;
+}
+
+#academicBackground {
+	color: black;
+	border-radius: 5px;
+}
+
+.col-md-3.profile-pic img {
+	width: 100%;
+}
+
+.info_container {
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-bottom: 2%;
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+}
+
+.info_container2 {
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-bottom: 2%;
+	color: white;
+	background-color: rgba(255, 255, 255, 0.65);
+	border-radius: 5px;
+	box-shadow: 2px 2px 1px lightblue;
+}
+
+.info_container3 {
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-bottom: 2%;
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+	box-shadow: 2px 2px 1px lightblue;
+}
+
+.col-md-6.sprofiles {
+	text-align: center;
+	text-decoration: none !important;
+	color: white !important;
+	border-radius: 5px;
+	margin-bottom: 2%;
+	background-color: black;
+	opacity: .65;
+	font-size: 22px;
+	box-shadow: 2px 2px 1px lightblue;
+}
+
+.page-header {
+	border-bottom: none;
+}
+
+.featurette-divider.home-divider {
+	border-top: 1px solid blue !important;
+}
+
+.container.profile-page {
+	border-radius: 5px;
+	background-image: url(metal3.jpg);
+	box-shadow: 2px 2px 1px lightblue;
+}
+
+#groupOrSingle {
+	color: black;
+}
+
+#cohortNumber {
+	color: black;
+}
+
+#academicBackground {
+	color: black;
+}
+
+#industryExperience {
+	color: black;
+}
+
+#technologiesUsed {
+	color: black;
+}
+
+.table-responsive.table-bordered {
+	border-collapse: collapse;
+	width: 100%;
+	color: black;
+}
+
+th, td {
+	text-align: left;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	color: black;
+	background-color: lightgreen;
+}
+
+th {
+	background-color: rgba(10, 10, 10, .75);
+	color: white;
+}
+
+#name-cohort-table a {
+	color: black;
+	text-decoration: none;
+}
+
+#name-cohort-table a:hover {
+	color: blue;
+	text-decoration: none;
+}
+
+#userNameExist {
+	color: red;
+}
+#blue-url{
+	color: blue;
+	text-decoration: none;
+}
+#blue-url:hover {
+	color: lightblue;
+	text-decoration: none;
+}
